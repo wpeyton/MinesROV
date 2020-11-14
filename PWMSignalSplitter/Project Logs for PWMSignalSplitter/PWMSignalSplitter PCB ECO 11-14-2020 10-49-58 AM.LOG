@@ -1,0 +1,29 @@
+Added Component: Designator=J1(S3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-XH-A-LF-SN/1651055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "JST-XH 3POS R/A"; VariantName = "[No Variations]"
+Added Component: Designator=J2(S2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-XH-A-LF-SN/1651055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "JST-XH 2POS R/A"; VariantName = "[No Variations]"
+Added Component: Designator=J3(S2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-XH-A-LF-SN/1651055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "JST-XH 2POS R/A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Signal Pin=J1-1
+Added Pin To Net: NetName=Signal Pin=J3-1
+Added Net: Name=Signal
+Added Class: Name=PWMSignalSplitter
