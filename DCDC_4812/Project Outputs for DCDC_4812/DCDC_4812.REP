@@ -13,6 +13,67 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : DCDC_4812.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DCDC_4812.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D30
+    D44
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DCDC_4812.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : DCDC_4812.GBO
 
@@ -34,10 +95,9 @@ Generating : Top Layer
 
 Used DCodes :
     D12
-    D26
     D27
-    D29
-    D33
+    D28
+    D30
     D34
     D35
     D36
@@ -56,6 +116,7 @@ Used DCodes :
     D49
     D50
     D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -70,7 +131,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D13
     D14
     D15
     D16
@@ -90,65 +150,6 @@ Used DCodes :
     D30
     D31
     D32
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DCDC_4812.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : DCDC_4812.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D29
-    D43
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : DCDC_4812.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
+    D33
 *************************************************************
 

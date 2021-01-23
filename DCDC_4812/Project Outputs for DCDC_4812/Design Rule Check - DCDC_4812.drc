@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\wmp39\Documents\Altium\GitCheckout\DCDC_4812\DCDC_4812.PcbDoc
 Date     : 1/22/2021
-Time     : 8:16:44 PM
+Time     : 9:03:02 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('Int1_12V') Or InNamedPolygon('Int1_12V') Or InNamedPolygon('Int1_12V') Or InNamedPolygon('Top Layer-VIN')),(All)
 Rule Violations :0
@@ -42,15 +42,12 @@ Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (9.252mil < 10mil) Between Pad J2-1(2150mil,175.394mil) on Multi-Layer And Pad J2-MH1(2150mil,350mil) on Multi-Layer 
    Violation between Clearance Constraint: (9.252mil < 10mil) Between Pad J2-1(2150mil,524.606mil) on Multi-Layer And Pad J2-MH1(2150mil,350mil) on Multi-Layer 
    Violation between Clearance Constraint: (9.252mil < 10mil) Between Pad J2-1(2324.606mil,350mil) on Multi-Layer And Pad J2-MH1(2150mil,350mil) on Multi-Layer 
-   Violation between Clearance Constraint: (5mil < 10mil) Between Pad R2-2(1880mil,4015.551mil) on Top Layer And Track (1819.913mil,3977.913mil)(1917.913mil,3977.913mil) on Top Layer 
-   Violation between Clearance Constraint: (8.624mil < 10mil) Between Pad R2-2(1880mil,4015.551mil) on Top Layer And Track (1917.913mil,3977.913mil)(1955.551mil,4015.551mil) on Top Layer 
    Violation between Clearance Constraint: (9mil < 10mil) Between Pad U2-10(1372mil,3850mil) on Multi-Layer And Pad U2-11(1436mil,3850mil) on Multi-Layer 
    Violation between Clearance Constraint: (9mil < 10mil) Between Pad U2-11(1436mil,3850mil) on Multi-Layer And Pad U2-12(1500mil,3850mil) on Multi-Layer 
    Violation between Clearance Constraint: (9mil < 10mil) Between Pad U2-12(1500mil,3850mil) on Multi-Layer And Pad U2-13(1564mil,3850mil) on Multi-Layer 
    Violation between Clearance Constraint: (9mil < 10mil) Between Pad U2-13(1564mil,3850mil) on Multi-Layer And Pad U2-14(1628mil,3850mil) on Multi-Layer 
    Violation between Clearance Constraint: (9mil < 10mil) Between Pad U2-14(1628mil,3850mil) on Multi-Layer And Pad U2-15(1692mil,3850mil) on Multi-Layer 
-   Violation between Clearance Constraint: (7.755mil < 10mil) Between Pad U2-15(1692mil,3850mil) on Multi-Layer And Track (1628mil,3850mil)(1793.551mil,4015.551mil) on Top Layer 
-Rule Violations :16
+Rule Violations :13
 
 Processing Rule : Clearance Constraint (Gap=30mil) (InNamedPolygon('Int1_12V')),(All)
 Rule Violations :0
@@ -74,7 +71,8 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (5.922mil < 10mil) Between Region (22 hole(s)) Top Overlay And Text "C7" (1450.016mil,3630.01mil) on Top Overlay Silk Text to Silk Clearance [5.921mil]
+Rule Violations :1
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -83,6 +81,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 16
+Violations Detected : 14
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
