@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=DCDC_4812 Member=J29
+Change Component Comment : Designator=U2 Old Comment=48V/12V DCDC  New Comment=48V/12V DCDC
+Change Component Designator: OldDesignator=J9 NewDesignator=J11
+Change Component Designator: OldDesignator=J10 NewDesignator=J12
+Change Component Designator: OldDesignator=J11 NewDesignator=J13
+Change Component Designator: OldDesignator=J12 NewDesignator=J14
+Change Component Designator: OldDesignator=J13 NewDesignator=J15
+Change Component Designator: OldDesignator=J14 NewDesignator=J16
+Change Component Designator: OldDesignator=J15 NewDesignator=J17
+Change Component Designator: OldDesignator=J16 NewDesignator=J18
+Change Component Designator: OldDesignator=J17 NewDesignator=J19
+Change Component Designator: OldDesignator=J18 NewDesignator=J20
+Change Component Designator: OldDesignator=J19 NewDesignator=J21
+Change Component Designator: OldDesignator=J20 NewDesignator=J22
+Change Component Designator: OldDesignator=J21 NewDesignator=J23
+Change Component Designator: OldDesignator=J22 NewDesignator=J24
+Change Component Designator: OldDesignator=J23 NewDesignator=J25
+Change Component Designator: OldDesignator=J24 NewDesignator=J26
+Change Component Designator: OldDesignator=J29 NewDesignator=J10
+Change Component Designator: OldDesignator=J30 NewDesignator=J27
+Added Component: Designator=H1(M3_MOUNTING_HOLE)
+Added Component: Designator=H2(M3_MOUNTING_HOLE)
+Added Component: Designator=H3(M3_MOUNTING_HOLE)
+Added Component: Designator=H4(M3_MOUNTING_HOLE)
+Added Component: Designator=J9(FP-B2B-XH-A_LF_SN-MFG)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf?5d9b3ba19c79b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "JST-XH 2POS VERT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Member To Class: ClassName=DCDC_4812 Member=Component H1 M3
+Added Member To Class: ClassName=DCDC_4812 Member=Component H2 M3
+Added Member To Class: ClassName=DCDC_4812 Member=Component H3 M3
+Added Member To Class: ClassName=DCDC_4812 Member=Component H4 M3
+Added Member To Class: ClassName=DCDC_4812 Member=Component J25 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J26 M3x2.5mm
+Added Room: Name=DCDC_4812
