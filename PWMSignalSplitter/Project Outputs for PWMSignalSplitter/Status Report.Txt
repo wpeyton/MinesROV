@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PWMSignalSplitter.PrjPcb]
+   Generated File[PWMSignalSplitter.TXT]
+   Generated File[PWMSignalSplitter.LDP]
+   Generated File[PWMSignalSplitter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:49:03 PM On 1/22/2021
