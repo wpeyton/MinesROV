@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: C:\Users\wmp39\Documents\Altium\GitCheckout\DCDC_4805\DCDC_4805.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_8|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_7|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_6|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_5|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

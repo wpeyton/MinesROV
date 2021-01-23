@@ -1,0 +1,84 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\wmp39\Documents\Altium\GitCheckout\DCDC_4805\DCDC_4805.PcbDoc
+Date     : 1/23/2021
+Time     : 4:24:54 PM
+
+Processing Rule : Clearance Constraint (Gap=30mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=25mil) (All),(All)
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J1-1(125.394mil,1325mil) on Multi-Layer And Pad J1-MH1(300mil,1325mil) on Multi-Layer 
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J1-1(300mil,1150.394mil) on Multi-Layer And Pad J1-MH1(300mil,1325mil) on Multi-Layer 
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J1-1(300mil,1499.606mil) on Multi-Layer And Pad J1-MH1(300mil,1325mil) on Multi-Layer 
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J1-1(474.606mil,1325mil) on Multi-Layer And Pad J1-MH1(300mil,1325mil) on Multi-Layer 
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J2-1(125.394mil,675mil) on Multi-Layer And Pad J2-MH1(300mil,675mil) on Multi-Layer 
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J2-1(300mil,500.394mil) on Multi-Layer And Pad J2-MH1(300mil,675mil) on Multi-Layer 
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J2-1(300mil,849.606mil) on Multi-Layer And Pad J2-MH1(300mil,675mil) on Multi-Layer 
+   Violation between Clearance Constraint: (9.252mil < 25mil) Between Pad J2-1(474.606mil,675mil) on Multi-Layer And Pad J2-MH1(300mil,675mil) on Multi-Layer 
+   Violation between Clearance Constraint: (23.622mil < 25mil) Between Pad R1-1(700mil,465.551mil) on Top Layer And Pad R1-2(700mil,534.449mil) on Top Layer 
+   Violation between Clearance Constraint: (23.622mil < 25mil) Between Pad R2-1(3280mil,914.449mil) on Top Layer And Pad R2-2(3280mil,845.551mil) on Top Layer 
+   Violation between Clearance Constraint: (23.622mil < 25mil) Between Pad R3-1(3280mil,1085.551mil) on Top Layer And Pad R3-2(3280mil,1154.449mil) on Top Layer 
+Rule Violations :11
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNamedPolygon('NONET_L-01_P-001')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('FUSE_IN') Or InNamedPolygon('FUSE_OUT')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('FET_CLAMP')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=30mil) (InNamedPolygon('VIN')),(All)
+   Violation between Clearance Constraint: (20mil < 30mil) Between Polygon Region (10 hole(s)) Top Layer And Polygon Region (20 hole(s)) Top Layer 
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('VIN')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('VIN')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:02
