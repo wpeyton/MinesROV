@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DCDC_4812.PrjPcb]
+   Generated File[DCDC_4812.GTO]
+   Generated File[DCDC_4812.GTS]
+   Generated File[DCDC_4812.GTL]
+   Generated File[DCDC_4812.GBL]
+   Generated File[DCDC_4812.GBS]
+   Generated File[DCDC_4812.GBO]
+   Generated File[DCDC_4812.GM1]
+   Generated File[DCDC_4812.RUL]
+   Generated File[DCDC_4812.EXTREP]
+   Generated File[DCDC_4812.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 8:36:29 PM On 1/22/2021
