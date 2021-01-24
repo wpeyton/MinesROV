@@ -2,53 +2,6 @@
 FileName = DCDC_4812.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : DCDC_4812.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : DCDC_4812.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : DCDC_4812.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D43
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : DCDC_4812.GTL
 
@@ -92,6 +45,40 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D45
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : DCDC_4812.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DCDC_4812.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D43
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -150,5 +137,18 @@ Used DCodes :
     D30
     D31
     D32
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DCDC_4812.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
 *************************************************************
 
