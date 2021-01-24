@@ -1,19 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [PWMSignalSplitter.PrjPcb]
-   Generated File[PWMSignalSplitter.GTO]
-   Generated File[PWMSignalSplitter.GTS]
-   Generated File[PWMSignalSplitter.GTL]
-   Generated File[PWMSignalSplitter.GBL]
-   Generated File[PWMSignalSplitter.GBS]
-   Generated File[PWMSignalSplitter.GBO]
-   Generated File[PWMSignalSplitter.GM1]
-   Generated File[PWMSignalSplitter.RUL]
-   Generated File[PWMSignalSplitter.EXTREP]
-   Generated File[PWMSignalSplitter.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PWMSignalSplitter.PrjPcb]
+   Generated File[PWMSignalSplitter.TXT]
+   Generated File[PWMSignalSplitter.LDP]
+   Generated File[PWMSignalSplitter.DRR]
 
 
-Files Generated   : 10
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 9:51:54 PM On 1/22/2021
+Finished Output Generation At 8:29:36 AM On 1/24/2021

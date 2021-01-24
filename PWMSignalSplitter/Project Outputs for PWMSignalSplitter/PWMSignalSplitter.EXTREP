@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PWMSignalSplitter.GBR   1/22/2021  9:51:54 PM
+Gerber File Extension Report For: PWMSignalSplitter.GBR   1/24/2021  8:28:37 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -13,4 +13,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
 ------------------------------------------------------------------------------------------
