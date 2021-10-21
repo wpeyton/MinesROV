@@ -1,7 +1,0 @@
-Change Component Comment : Designator=U2 Old Comment=48V/12V DCDC New Comment=48V/12V DC-DC Converter
-Change component parameters: Designator = "U2" ("U2"); Footprint = "BMR4800116/005"; UniqueID = "\PEVJKFRK" ("\PEVJKFRK")
-Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/flex-power-modules/BMR4800116-005/10287606"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Flex Power Modules"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Part Number"; Value = "BMR4800116/005"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = "48V/12V DC-DC Converter"; VariantName = "[No Variations]"
