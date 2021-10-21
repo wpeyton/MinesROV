@@ -1,0 +1,10 @@
+Record=DiagramHierarchy|SourceDocument=FullAssem.MbsDoc|Kind=Multi-board Schematic Module|Designator=B5|Source=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=SubProject|SourceDocument=FullAssem.MbsDoc|ProjectPath=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=FullAssem.MbsDoc|Kind=Multi-board Schematic Module|Designator=B4|Source=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=SubProject|SourceDocument=FullAssem.MbsDoc|ProjectPath=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=FullAssem.MbsDoc|Kind=Multi-board Schematic Module|Designator=B3|Source=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=SubProject|SourceDocument=FullAssem.MbsDoc|ProjectPath=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=FullAssem.MbsDoc|Kind=Multi-board Schematic Module|Designator=B2|Source=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=SubProject|SourceDocument=FullAssem.MbsDoc|ProjectPath=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=FullAssem.MbsDoc|Kind=Multi-board Schematic Module|Designator=B1|Source=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb
+Record=SubProject|SourceDocument=FullAssem.MbsDoc|ProjectPath=..\..\GitCheckout\ESCBackerBoard\ESCBackerBoard.PrjPcb

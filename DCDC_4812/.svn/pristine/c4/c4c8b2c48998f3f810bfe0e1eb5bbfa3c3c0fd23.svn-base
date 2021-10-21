@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=12V Pin=C7-2
+Removed Pin From Net: NetName=12V Pin=J9-1
+Removed Pin From Net: NetName=VIN Pin=U2-1
+Removed Pin From Net: NetName=RC Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=12V Pin=U2-7
+Removed Pin From Net: NetName=12V Pin=U2-7
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U2-10
+Removed Pin From Net: NetName=SDA Pin=U2-11
+Removed Pin From Net: NetName=SALERT Pin=U2-12
+Removed Pin From Net: NetName=SCL Pin=U2-13
+Removed Pin From Net: NetName=SA1 Pin=U2-14
+Removed Pin From Net: NetName=SA0 Pin=U2-15
+Removed Member From Class: ClassName=DCDC_4812 Member=C7
+Removed Member From Class: ClassName=DCDC_4812 Member=U2
+Added Component: Designator=C?(C2012M Generic)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C2012X5R1V156M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF 35V"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BMR4800102/002)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/flex-power-modules/BMR4800102-002/10287640?s=N4IgjCBcoExgHAdiqAxlAZgQwDYGcBTAGhAHsoBtEATgAZaB1EAXRIAcAXKEAVQDsAlhwDyGALIEseAK4AnAiAC%2ByoA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Flex Power Modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BMR4800102/002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "48V/12V DC-DC Converter"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=U?-1
+Added Pin To Net: NetName=RC Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=12V Pin=U?-7
+Added Pin To Net: NetName=12V Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=SDA Pin=U?-11
+Added Pin To Net: NetName=SALERT Pin=U?-12
+Added Pin To Net: NetName=SCL Pin=U?-13
+Added Pin To Net: NetName=SA1 Pin=U?-14
+Added Pin To Net: NetName=SA0 Pin=U?-15
+Added Pin To Net: NetName=PG Pin=J9-1
+Added Pin To Net: NetName=PG Pin=U?-6
+Added Net: Name=PG
+Added Member To Class: ClassName=DCDC_4812 Member=Component C? 15uF 35V
+Added Member To Class: ClassName=DCDC_4812 Member=Component U? 48V/12V DC-DC Converter

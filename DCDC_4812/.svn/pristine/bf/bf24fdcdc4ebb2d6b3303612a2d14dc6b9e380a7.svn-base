@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetF1_2 Pin=U1-D
+Removed Pin From Net: NetName=NetD1_1 Pin=U1-G
+Removed Pin From Net: NetName=VIN Pin=U1-S
+Removed Member From Class: ClassName=DCDC_4812 Member=U1
+Change Component Footprint: Designator=J9 Old Footprint=FP-B2B-XH-A_LF_SN-MFG New Footprint=FP-B2B-XH-A_LF_SN-MFG
+Added Component: Designator=U?(SMP3003-DL-1E)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/on-semiconductor/SMP3003-DL-1E/4849083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMP3003-DL-1E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "P-CH FET 75V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=U?-1
+Added Pin To Net: NetName=VIN Pin=U?-3
+Added Pin To Net: NetName=NetF1_2 Pin=U?-4
+Added Member To Class: ClassName=DCDC_4812 Member=Component J9 JST-XH 2POS VERT
+Added Member To Class: ClassName=DCDC_4812 Member=Component J10 JST-XH 2POS VERT
+Added Member To Class: ClassName=DCDC_4812 Member=Component J11 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J12 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J13 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J15 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J16 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J18 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J19 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J20 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J22 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component J23 M3x2.5mm
+Added Member To Class: ClassName=DCDC_4812 Member=Component U2 48V/12V DCDC
+Added Member To Class: ClassName=DCDC_4812 Member=Component U? P-CH FET 75V
+Added Room: Name=DCDC_4812

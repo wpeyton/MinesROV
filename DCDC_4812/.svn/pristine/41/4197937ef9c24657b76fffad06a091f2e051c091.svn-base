@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PG Pin=J9-1
+Added Component: Designator=J27(FP-B2B-XH-A_LF_SN-MFG)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf?5d9b3ba19c79b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "JST-XH 2POS VERT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=J9-1
+Added Pin To Net: NetName=PG Pin=J27-1
+Added Pin To Net: NetName=GND Pin=J27-2
+Added Member To Class: ClassName=DCDC_4812 Member=Component J27 JST-XH 2POS VERT
